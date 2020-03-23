@@ -7,3 +7,5 @@ git_practice
 add feat-A 1st
 
 for remote
+
+local feat-A
